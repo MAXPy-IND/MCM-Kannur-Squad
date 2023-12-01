@@ -30,7 +30,7 @@ Scroll Down and Click on CONTINUE to Download Movie..!
 
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/Midukki-RoBoT">
+<a href="https://m.playtamil.com.lc/file/14176/Kannur-squad-2023-malayalam-full-movie-hdrip.mp4.html">
   <img src="continue.jpg" alt="Continue">
 </a>
 </p>
