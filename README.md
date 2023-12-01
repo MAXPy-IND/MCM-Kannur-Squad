@@ -18,6 +18,6 @@
 
 Scroll Down and Click on CLICK HERE TO CONTINUE TO DOWNLOAD MOVIE..!
 
-<p align="center">
+<p align="left">
 <img src="ksposter.jpg">
 </p>
