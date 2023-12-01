@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img style="width:280; height:300;" src="https://m.playtamil.com.lc/files/images/Kannur_Squad_(2023)_Malayalam_Movie.">
+<img style="width:280; height:300;" src="ksposter.jpg">
 </p>
 
 
