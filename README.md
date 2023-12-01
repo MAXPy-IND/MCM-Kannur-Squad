@@ -16,8 +16,18 @@
 * Description	 : Follows a squad of police officers dedicated to finding and catching elusive criminals.
 * Quality	     : HDRip
 
-Scroll Down and Click on CLICK HERE TO CONTINUE TO DOWNLOAD MOVIE..!
+Scroll Down and Click on CONTINUE to Download Movie..!
+
 
 <p align="left">
 <img src="ksposter.jpg">
+</p>
+
+
+
+
+
+
+<p align="centre">
+<img href="https://github.com/MAXPy-IND/MCM-Kannur-Squad", src="continue.jpg">
 </p>
